@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Ji30g
 - 🌱 I’m currently learning ...python
 
+Hi there! 
+안녕하세요! 과거의 나보다 조금이라도 더 나아지기 위해 시작하고자 합니다.
 
 
 <!---
